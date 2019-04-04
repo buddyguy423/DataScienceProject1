@@ -59,7 +59,13 @@ _____
 - Why trend is so important ?
   - Trending helps viewers see what's happening on YouTube and in the world. Some trends are predictable, like a new song from a popular artist or a new movie trailer. Others are surprising, like a viral video. Trending aims to surface videos that a wide range of viewers will appreciate.
 
- 
+- What strategies did fastest growing brands use. 
+  -Who are they? (data on viewer/sub/likes growth)
+  -What is the desired length of the videos?
+  -tags related to higher views. which tags to avoid?
+  -timing of publishing. Time of day and season(quarters)
+  
+  
 
 
 #### Strategic
