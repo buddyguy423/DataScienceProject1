@@ -56,17 +56,6 @@ def get_api_key(key, response):
     except:
         return 0
 
-
-
-
-            #    record['duration'] = duration_to_secs()
-            #    record['commentCount'] = 
-            #    record[''] = 
-            #    record[''] = 
-            #    record[''] = 
-            #    record[''] = 
-
-
 def main(debug, partial):
     # Disable OAuthlib's HTTPS verification when running locally.
     # *DO NOT* leave this option enabled in production.
