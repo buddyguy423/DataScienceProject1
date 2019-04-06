@@ -126,5 +126,8 @@ _____
 * Trends videos over time
 * Total of publish videos over time
 
+### Possible Questions to Investigate:
+* What tags appear in the greatest number of videos? What tags seem to draw in more views, likes, and comments?
+* Which categories are most popular? Which categories draw engagement in the form of likes, views, and comments?
 
 
