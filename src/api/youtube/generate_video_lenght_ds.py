@@ -134,4 +134,4 @@ def main(debug, partial):
     print ("Process completed without errors")
 
 if __name__ == "__main__":
-    main(debug=False, partial=True) 
+    main(debug=False, partial=False) 
