@@ -13,7 +13,7 @@ def sentiment_scores(sentence):
     result['neutral'] = sentiment_dict['neu']*100
     result['positive'] = sentiment_dict['pos']*100
     
-    if sentiment_dict['compound'] >= 0.05 : 
+    if sentiment_dict['compound'] >= 0.05 :
         result['rate'] = "Positive"
   
     elif sentiment_dict['compound'] <= - 0.05 : 
